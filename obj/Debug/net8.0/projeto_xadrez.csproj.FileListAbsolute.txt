@@ -1,0 +1,28 @@
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.exe
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.deps.json
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.runtimeconfig.json
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.dll
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.pdb
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.AssemblyInfo.cs
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.dll
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\refint\projeto_xadrez.dll
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.pdb
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.genruntimeconfig.cache
+C:\Users\wesle\source\repos\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\ref\projeto_xadrez.dll
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.exe
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.deps.json
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.runtimeconfig.json
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.dll
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\bin\Debug\net8.0\projeto_xadrez.pdb
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.AssemblyInfo.cs
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.dll
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\refint\projeto_xadrez.dll
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.pdb
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\projeto_xadrez.genruntimeconfig.cache
+C:\Users\wesle\source\repos\Udemy cursos\Nelio Alves\projeto_xadrez\projeto_xadrez\obj\Debug\net8.0\ref\projeto_xadrez.dll
